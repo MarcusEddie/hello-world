@@ -13,5 +13,9 @@ git
 -world.git
 ithub.com/WalterSanborn/hello
 -world.git
+<<<<<<< HEAD
 >>>>>>> branch 'master' of https://github.com/WalterSanborn/hello-world.git
 hello-world.git
+=======
+>>>>>>
+>>>>>>> branch 'master' of https://github.com/WalterSanborn/hello-world.git
