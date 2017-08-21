@@ -6,5 +6,11 @@ sfsfsf
 CHine
 >>>>>>> branch 'master' of https://github.com/WalterSanborn/hello-world.git
 ithub.com/WalterSanborn/hello
+<<<<<<< HEAD
 -world.gitgit
 git
+=======
+-world.git
+ithub.com/WalterSanborn/hello
+-world.git
+>>>>>>> branch 'master' of https://github.com/WalterSanborn/hello-world.git
